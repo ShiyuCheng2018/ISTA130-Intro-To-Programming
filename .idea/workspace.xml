@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67dda2c2-759f-4b55-8740-92d725f154af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assignments/assignment_9/emoticons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/coding_examples/SHIYU_CHENG_Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/coding_examples/dogfight_explanation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/assignment_9/fishcatch.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/assignment_9/fishcatch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/assignment_9/emoticons.py" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/assignment_9/emoticons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/assignment_9/emoticons_main_out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/assignment_9/emoticons_main_out.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,29 +60,7 @@
     </option>
   </component>
   <component name="RunManager" selected="Python tests.Unittests for test_fimoticon.TestFimoticon.test_fishcatch_main">
-    <configuration name="fishcatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ISTA130" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment_9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/assignment_9/fishcatch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_fimoticon.TestFimoticon" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_fimoticon.TestFimoticon.test_emoticons_main" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ISTA130" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +71,22 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_fimoticon.TestFimoticon&quot;" />
+      <option name="_new_target" value="&quot;test_fimoticon.TestFimoticon.test_emoticons_main&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_fimoticon.TestFimoticon.test_find_most_common" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ISTA130" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment_9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fimoticon.TestFimoticon.test_find_most_common&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -129,18 +120,18 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for test_madlib.TestMadlib.test_main" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for test_fimoticon.TestFimoticon.test_load_twitter_dicts_from_file" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="ISTA130" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment_7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments/assignment_9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_madlib.TestMadlib.test_main&quot;" />
+      <option name="_new_target" value="&quot;test_fimoticon.TestFimoticon.test_load_twitter_dicts_from_file&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -148,9 +139,9 @@
       <list>
         <item itemvalue="Python tests.Unittests for test_fimoticon.TestFimoticon.test_fishcatch_main" />
         <item itemvalue="Python tests.Unittests for test_fimoticon.TestFimoticon.test_fish_dict_from_file" />
-        <item itemvalue="Python tests.Unittests for test_fimoticon.TestFimoticon" />
-        <item itemvalue="Python.fishcatch" />
-        <item itemvalue="Python tests.Unittests for test_madlib.TestMadlib.test_main" />
+        <item itemvalue="Python tests.Unittests for test_fimoticon.TestFimoticon.test_emoticons_main" />
+        <item itemvalue="Python tests.Unittests for test_fimoticon.TestFimoticon.test_load_twitter_dicts_from_file" />
+        <item itemvalue="Python tests.Unittests for test_fimoticon.TestFimoticon.test_find_most_common" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +174,7 @@
       <workItem from="1587080015558" duration="6220000" />
       <workItem from="1587186811864" duration="1391000" />
       <workItem from="1587790523149" duration="2251000" />
-      <workItem from="1588039312363" duration="3921000" />
+      <workItem from="1588039312363" duration="9041000" />
     </task>
     <servers />
   </component>
@@ -214,6 +205,7 @@
     <SUITE FILE_PATH="coverage/ISTA130$fishcatch.coverage" NAME="fishcatch Coverage Results" MODIFIED="1588043135968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$snake.coverage" NAME="snake Coverage Results" MODIFIED="1580440474514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions_test_text_triangle.coverage" NAME="Unittests for test_functions2.TestFunctions.test_text_triangle Coverage Results" MODIFIED="1581661229828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
+    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_find_most_common.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_find_most_common Coverage Results" MODIFIED="1588126347326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions_TestFunctions_test_decimal.coverage" NAME="Unittests for test_functions.TestFunctions.test_decimal Coverage Results" MODIFIED="1581042926251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_2" />
     <SUITE FILE_PATH="coverage/ISTA130$yinyang.coverage" NAME="yinyang Coverage Results" MODIFIED="1580441216885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments" />
     <SUITE FILE_PATH="coverage/ISTA130$functions.coverage" NAME="functions Coverage Results" MODIFIED="1581043705082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_2" />
@@ -228,18 +220,19 @@
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_madlib_TestMadlib_test_main.coverage" NAME="Unittests for test_madlib.TestMadlib.test_main Coverage Results" MODIFIED="1587101275973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_7" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions_test_repeat_word.coverage" NAME="Unittests for test_functions2.TestFunctions.test_repeat_word Coverage Results" MODIFIED="1581660749155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions_TestFunctions_test_forecast.coverage" NAME="Unittests for test_functions.TestFunctions.test_forecast Coverage Results" MODIFIED="1581042069865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_2" />
-    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_fishcatch_main.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_fishcatch_main Coverage Results" MODIFIED="1588043344628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
+    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_fishcatch_main.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_fishcatch_main Coverage Results" MODIFIED="1588126365150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_strings_TestStrings_test_count_word.coverage" NAME="Unittests for test_strings.TestStrings.test_count_word Coverage Results" MODIFIED="1586572898424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_6" />
     <SUITE FILE_PATH="coverage/ISTA130$erfc2.coverage" NAME="erfc2 Coverage Results" MODIFIED="1579929178316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week2/coding_examples" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions.coverage" NAME="Unittests for test_functions2.TestFunctions Coverage Results" MODIFIED="1581662516669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_strings_TestStrings_test_redact_file.coverage" NAME="Unittests for test_strings.TestStrings.test_redact_file Coverage Results" MODIFIED="1586572167243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_6" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions_test_print_word.coverage" NAME="Unittests for test_functions2.TestFunctions.test_print_word Coverage Results" MODIFIED="1581659404992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_strings_TestStrings_test_is_phone_num.coverage" NAME="Unittests for test_strings.TestStrings.test_is_phone_num Coverage Results" MODIFIED="1586566250082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_6" />
+    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_emoticons_main.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_emoticons_main Coverage Results" MODIFIED="1588126352103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$hello_turtle.coverage" NAME="hello_turtle Coverage Results" MODIFIED="1580424446769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week2/coding_examples" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions_TestFunctions_test_radians.coverage" NAME="Unittests for test_functions.TestFunctions.test_radians Coverage Results" MODIFIED="1581042458146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_2" />
-    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon.coverage" NAME="Unittests for test_fimoticon.TestFimoticon Coverage Results" MODIFIED="1588043183902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
+    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon.coverage" NAME="Unittests for test_fimoticon.TestFimoticon Coverage Results" MODIFIED="1588126299345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$coca_cola.coverage" NAME="coca_cola Coverage Results" MODIFIED="1580433139289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week2/coding_examples" />
-    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_fish_dict_from_file.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_fish_dict_from_file Coverage Results" MODIFIED="1588043190178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
+    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_fish_dict_from_file.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_fish_dict_from_file Coverage Results" MODIFIED="1588126362861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_pig_TestConditions_test_print_scores.coverage" NAME="Unittests for test_pig.TestConditions.test_print_scores Coverage Results" MODIFIED="1585967117776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_5" />
     <SUITE FILE_PATH="coverage/ISTA130$mystery.coverage" NAME="mystery Coverage Results" MODIFIED="1580424327690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week2/coding_examples" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions_test_tree_height.coverage" NAME="Unittests for test_functions2.TestFunctions.test_tree_height Coverage Results" MODIFIED="1581661647443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
@@ -253,6 +246,7 @@
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_pig_TestConditions_test_check_for_winner.coverage" NAME="Unittests for test_pig.TestConditions.test_check_for_winner Coverage Results" MODIFIED="1585967233204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_5" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions_test_convert_from_copper.coverage" NAME="Unittests for test_functions2.TestFunctions.test_convert_from_copper Coverage Results" MODIFIED="1581662496964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
     <SUITE FILE_PATH="coverage/ISTA130$try__1_.coverage" NAME="try (1) Coverage Results" MODIFIED="1582957799961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_4" />
+    <SUITE FILE_PATH="coverage/ISTA130$emoticons.coverage" NAME="emoticons Coverage Results" MODIFIED="1588126290996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_pig_TestConditions_test_play_turn.coverage" NAME="Unittests for test_pig.TestConditions.test_play_turn Coverage Results" MODIFIED="1585980475589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_5" />
     <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_functions2_TestFunctions_test_surface_area_of_cylinder.coverage" NAME="Unittests for test_functions2.TestFunctions.test_surface_area_of_cylinder Coverage Results" MODIFIED="1581661407639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
     <SUITE FILE_PATH="coverage/ISTA130$test_conditions_v0_1.coverage" NAME="test_conditions_v0.1 Coverage Results" MODIFIED="1582925968434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_4" />
@@ -261,5 +255,6 @@
     <SUITE FILE_PATH="coverage/ISTA130$try.coverage" NAME="try Coverage Results" MODIFIED="1581747554732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_3" />
     <SUITE FILE_PATH="coverage/ISTA130$erfc.coverage" NAME="erfc Coverage Results" MODIFIED="1579929128273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lecture/week2/coding_examples" />
     <SUITE FILE_PATH="coverage/ISTA130$octagon.coverage" NAME="octagon Coverage Results" MODIFIED="1581142489327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/ISTA130$Unittests_for_test_fimoticon_TestFimoticon_test_load_twitter_dicts_from_file.coverage" NAME="Unittests for test_fimoticon.TestFimoticon.test_load_twitter_dicts_from_file Coverage Results" MODIFIED="1588126349285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/assignments/assignment_9" />
   </component>
 </project>
