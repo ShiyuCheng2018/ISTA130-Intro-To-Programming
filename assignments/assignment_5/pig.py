@@ -80,8 +80,8 @@ def play_turn(name):
                 return score
 
 def main():
-    seed = input("Enter seed value: ")
-    random.seed(seed)
+    # seed = input("Enter seed value: ")
+    # random.seed(seed)
     print()
     print()
     print("Pig Dice")
@@ -99,6 +99,7 @@ def main():
         # if the score hits 50, then break
         if check_for_winner(player_1, score_1):
             break
+
         print_scores(player_1, score_1, player_2, score_2)
         # count score for player 2
         score_2 += play_turn(player_2)

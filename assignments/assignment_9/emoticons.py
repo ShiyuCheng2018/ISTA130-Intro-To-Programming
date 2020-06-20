@@ -82,3 +82,18 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+'''
+     设定最小值为-1，(list长度不可能小于-1），取变量名为max_length,
+     设定最后的结果表情名字为""， 取变量名为result_emo
+     
+     循环字典的key和value:
+        如果value的长度 >= max_length:
+            那么max_length = value的长度
+            并且， 将这个key赋值给result_emo
+        （没有否则）
+     
+     已找到最大值的表情， 打印
+
+'''
